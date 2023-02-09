@@ -1,0 +1,6 @@
+Pokus o zacatie vety cislom. 4. v poradi bol ferko.
+Toto je 1. veta a za ňou následuje veta číslo 2. Toto je veta číslo 2.
+Mudr. Andrejko je narodeny 20.3. 2005. Datum 23.3.2003.
+Dalsi riadok su skratky nako napr. atd. a tak. Nasledne tu je preskok na
+dalsi riadok. Tu su trojbotky... ano? Koniec?
+
